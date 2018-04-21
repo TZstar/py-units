@@ -1,0 +1,33 @@
+select FROM_UNIXTIME(UNIX_TIMESTAMP(),'Y D M h:i:s x');
+少百分号%
+
+mysql分区语句，排错！
+
+mysql其他语句排错！
+
+rank,dense_rank,row_number 排序有什么区别！
+
+mysql truncate 与 delete 的区别！
+
+mysql 优化
+
+hadoop中hive 和 hbase有什么区别？
+
+mysql 死锁的原理，怎么解决
+
+用户变量存放在哪个文件里？
+
+ln 软硬连接
+
+查看进程，端口占用
+
+mysql 查询语句！
+
+给用户更改所有者，所组！
+
+
+
+cp,mv,cd,cat,........ 考察！
+
+
+还有C/C++的题目！
