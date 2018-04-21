@@ -1,0 +1,80 @@
+2018-04-14 17:08:32,109 - __main__ - INFO - Start print log
+2018-04-14 17:08:32,126 - __main__ - WARNING - Something maybe fail.
+2018-04-14 17:08:32,145 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "<ipython-input-7-71fa03d3d079>", line 22, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-04-14 17:08:32,165 - __main__ - INFO - Finish
+2018-04-14 17:09:36,611 - __main__ - INFO - Start print log
+2018-04-14 17:09:36,611 - __main__ - INFO - Start print log
+2018-04-14 17:09:36,629 - __main__ - WARNING - Something maybe fail.
+2018-04-14 17:09:36,629 - __main__ - WARNING - Something maybe fail.
+2018-04-14 17:09:36,650 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "<ipython-input-8-644409a12934>", line 22, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-04-14 17:09:36,650 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "<ipython-input-8-644409a12934>", line 22, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-04-14 17:09:36,671 - __main__ - INFO - Finish
+2018-04-14 17:09:36,671 - __main__ - INFO - Finish
+2018-04-14 17:10:31,961 - __main__ - INFO - Start print log
+2018-04-14 17:10:31,961 - __main__ - INFO - Start print log
+2018-04-14 17:10:31,961 - __main__ - INFO - Start print log
+2018-04-14 17:10:31,984 - __main__ - WARNING - Something maybe fail.
+2018-04-14 17:10:31,984 - __main__ - WARNING - Something maybe fail.
+2018-04-14 17:10:31,984 - __main__ - WARNING - Something maybe fail.
+2018-04-14 17:10:32,005 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "<ipython-input-9-71fa03d3d079>", line 22, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-04-14 17:10:32,005 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "<ipython-input-9-71fa03d3d079>", line 22, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-04-14 17:10:32,005 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "<ipython-input-9-71fa03d3d079>", line 22, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-04-14 17:10:32,028 - __main__ - INFO - Finish
+2018-04-14 17:10:32,028 - __main__ - INFO - Finish
+2018-04-14 17:10:32,028 - __main__ - INFO - Finish
+2018-04-14 17:13:22,973 - __main__ - INFO - Start print log
+2018-04-14 17:13:22,973 - __main__ - INFO - Start print log
+2018-04-14 17:13:22,973 - __main__ - INFO - Start print log
+2018-04-14 17:13:22,973 - __main__ - INFO - Start print log
+2018-04-14 17:13:23,003 - __main__ - WARNING - Something maybe fail.
+2018-04-14 17:13:23,003 - __main__ - WARNING - Something maybe fail.
+2018-04-14 17:13:23,003 - __main__ - WARNING - Something maybe fail.
+2018-04-14 17:13:23,003 - __main__ - WARNING - Something maybe fail.
+2018-04-14 17:13:23,024 - __main__ - ERROR - Failed to open sklearn.txt from logger.exception
+Traceback (most recent call last):
+  File "<ipython-input-10-fafbeaace25e>", line 22, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-04-14 17:13:23,024 - __main__ - ERROR - Failed to open sklearn.txt from logger.exception
+Traceback (most recent call last):
+  File "<ipython-input-10-fafbeaace25e>", line 22, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-04-14 17:13:23,024 - __main__ - ERROR - Failed to open sklearn.txt from logger.exception
+Traceback (most recent call last):
+  File "<ipython-input-10-fafbeaace25e>", line 22, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-04-14 17:13:23,024 - __main__ - ERROR - Failed to open sklearn.txt from logger.exception
+Traceback (most recent call last):
+  File "<ipython-input-10-fafbeaace25e>", line 22, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2018-04-14 17:13:23,049 - __main__ - INFO - Finish
+2018-04-14 17:13:23,049 - __main__ - INFO - Finish
+2018-04-14 17:13:23,049 - __main__ - INFO - Finish
+2018-04-14 17:13:23,049 - __main__ - INFO - Finish
